@@ -31,6 +31,7 @@ public static $ikonT=[
 'unpub'=>['image'=>'unpublished.png','glyph'=>'ban-circle','color'=>'red'],
 'edit'=>['image'=>'edit.png','glyph'=>'edit'],
 'new'=>['image'=>'plusz.png','glyph'=>'plus'],
+'form'=>['image'=>'plusz.png','glyph'=>'plus'],    
 'del'=>['image'=>'torol.png','glyph'=>'trash'],
 'email'=>['image'=>'email.png','glyph'=>'envelope']    
 //''=>['image'=>'','glyph'=>''],    
